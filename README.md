@@ -10,3 +10,6 @@ Proposal Link: [https://docs.google.com/document/d/1go_QbMeQsDNfXC148dA2yNhFX4Oj
 
 This application can be the most useful for the freshman students or anyone who are not yet familiar with the campus. It can help them to know which path that should take to get from one of the buildings in UW-Madison campus to the other buildings. 
 ]
+
+## My Project Role:
+Data Wrangler
